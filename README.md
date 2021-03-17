@@ -1,5 +1,12 @@
 ### <div align="center"> Hi there, I'm Viola 👋 </div>
 
+<p  align="center">
+[![](https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)</p>
+
+
+
 - 📫 Contact me at v.fanfani@sms.ed.ac.uk
 - :octocat: Check my work at [stracquadaniolab](https://github.com/stracquadaniolab)
 - :penguin: Learn more about me [stracquadaniolab](https://violafanfani.github.io/)
