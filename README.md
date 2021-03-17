@@ -10,7 +10,7 @@
 
 - 📫 Contact me at v.fanfani@sms.ed.ac.uk
 - :octocat: Check my work at [stracquadaniolab](https://github.com/stracquadaniolab)
-- :penguin: Learn more about me [stracquadaniolab](https://violafanfani.github.io/)
+- :penguin: Learn more about me [https://violafanfani.github.io](https://violafanfani.github.io/)
 
 <!--
 **violafanfani/violafanfani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
