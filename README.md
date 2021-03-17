@@ -1,6 +1,6 @@
 ### <div align="center"> Welcome! 👋 </div>
 <p  align="center">
-![](https://github.com/violafanfani/violafanfani/blob/main/src/peek-2021-03-17.gif)</p>
+<img src="https://github.com/violafanfani/violafanfani/blob/main/src/peek-2021-03-17.gif"></br></p>
 
 <p  align="center">
   <img src="https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/nord_bright/0-profile-details.svg" alt="github stats"></br>
