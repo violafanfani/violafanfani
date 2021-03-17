@@ -1,5 +1,5 @@
 ### <div align="center"> Hi there, I'm Viola 👋 </div>
-![](https://github.com/violafanfani/violafanfani/blob/main/src/index.gif)
+![](https://github.com/violafanfani/violafanfani/blob/main/src/peek-2021-03-17.gif)
 
 <p  align="center">
   <img src="https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/nord_bright/0-profile-details.svg" alt="github stats"></br>
