@@ -1,10 +1,9 @@
 ### <div align="center"> Hi there, I'm Viola 👋 </div>
 
 <p  align="center">
-  <img src="https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/monokai/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/monokai/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/monokai/3-stats.svg"></br></p>
-
+  <img src="https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/nord_bright/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg">
+  <img src="https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/nord_bright/3-stats.svg"></br></p>
 
 
 - 📫 Contact me at v.fanfani@sms.ed.ac.uk
