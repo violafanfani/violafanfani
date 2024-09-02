@@ -8,8 +8,9 @@
   <img src="https://raw.githubusercontent.com/violafanfani/violafanfani/main/profile-summary-card-output/nord_bright/3-stats.svg"></br></p>
 
 
-- 📫 Contact me at v.fanfani@sms.ed.ac.uk
-- :octocat: Check my work at [stracquadaniolab](https://github.com/stracquadaniolab)
+- 📫 Contact me at vfanfani@hsph.harvard.edu
+- :octocat: Check my work at [QuackenbushLab](https://github.com/QuackenbushLab),
+  [netZooPy](https://github.com/netZoo/netZooPy), and [stracquadaniolab](https://github.com/stracquadaniolab)
 - :penguin: Learn more about me [https://violafanfani.github.io](https://violafanfani.github.io/)
 
 <!--
